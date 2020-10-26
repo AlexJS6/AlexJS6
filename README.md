@@ -1,7 +1,7 @@
 ### Hi I'm Alex!
 - 🔭 I am currently working on my final BeCode project.
 - 🌱 I am currently learning NodeJS & Python.
-- 👯 I am looking to collaborate on new interesting things.
+- 👯 I am looking to collaborate on new interesting project.
 - 📫 How to reach me: alex.spiesberger@gmail.com.
 - 😄 My Linkedin: www.linkedin.com/in/alexander-spiesberger-78a6671ab
 - 💬 Ask me about: EVERYTHING I love solving problems.
