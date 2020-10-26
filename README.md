@@ -3,7 +3,7 @@
 - 🌱 I am currently learning NodeJS & Python.
 - 👯 I am looking to collaborate on new interesting things.
 - 📫 How to reach me: alex.spiesberger@gmail.com.
-- 😄 Linkedin: www.linkedin.com/in/alexander-spiesberger-78a6671ab
+- 😄 My Linkedin: www.linkedin.com/in/alexander-spiesberger-78a6671ab
 - 💬 Ask me about: EVERYTHING I love solving problems.
 - ⚡ Fun fact: I never solve the problems... Just kidding :)
 <!--
