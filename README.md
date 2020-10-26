@@ -7,7 +7,7 @@
 - 💬 Ask me about: EVERYTHING I love solving problems.
 - ⚡ Fun fact: I never solve the problems... Just kidding :)
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlexJS6&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=148BCD">
+<img src="https://github-readme-stats.vercel.app/api?username=AlexJS6&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=066EA7">
 <!--
 **AlexJS6/AlexJS6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
