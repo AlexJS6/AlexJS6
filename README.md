@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi I'm Alex!
+- 🔭 I’m currently working on my final BeCode project.
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to collaborate on new things.
+- 📫 How to reach me: alex.spiesberger@gmail.com
 <!--
 **AlexJS6/AlexJS6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
