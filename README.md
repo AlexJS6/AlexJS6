@@ -13,7 +13,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my final BeCode project.
+- 🔭 I’m currently working on a game in python.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on new things.
 - 🤔 I’m looking for help with ...
