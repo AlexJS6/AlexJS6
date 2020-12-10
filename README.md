@@ -1,6 +1,6 @@
 ### Hi I'm Alex!
-- 🔭 I am currently working on my final BeCode project.
-- 🌱 I am currently learning NodeJS & Python.
+- 🔭 I am currently working on a multiplayer game with pygame.
+- 🌱 I am currently learning Python.
 - 👯 I am looking to collaborate on new interesting project.
 - 📫 How to reach me: alex.spiesberger@gmail.com.
 - 😄 My Linkedin: www.linkedin.com/in/alexander-spiesberger-78a6671ab
@@ -13,7 +13,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a game in python.
+- 🔭 I’m currently working on a python multiplayer game.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on new things.
 - 🤔 I’m looking for help with ...
