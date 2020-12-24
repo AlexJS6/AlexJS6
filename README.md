@@ -1,5 +1,5 @@
 ### Hi I'm Alex!
-- 🔭 I am currently working on a multiplayer game with pygame.
+- 🔭 I am currently learning a lot on Linux and Windows and tools to get better on CTF games.
 - 🌱 I am currently learning Python.
 - 👯 I am looking to collaborate on new interesting project.
 - 📫 How to reach me: alex.spiesberger@gmail.com.
