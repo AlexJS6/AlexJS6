@@ -1,7 +1,7 @@
 ### Hi I'm Alex!
 - 🔭 I am currently learning a lot on Linux and Windows and tools to get better on CTF games.
-- 🌱 I am currently learning CTF Games and different useful tools.
-- 👯 I am looking to collaborate on new interesting project.
+- 🌱 I am currently learning CTF Games and different useful tools for it.
+- 👯 I am looking to collaborate on new interesting project and learn a lot on ethical hacking.
 - 📫 How to reach me: alex.spiesberger@gmail.com.
 - 😄 My Linkedin: www.linkedin.com/in/alexander-spiesberger-78a6671ab
 - 💬 Ask me about: EVERYTHING I love solving problems.
