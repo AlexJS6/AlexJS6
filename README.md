@@ -1,5 +1,5 @@
 ### Hi I'm Alex!
-- 🔭 I am currently learning a lot on Linux and Windows and tools to get better on CTF games while being a student at UNI.
+- 🔭 I am currently learning a lot on Linux and Windows and tools to get better on CTF games while being a student.
 - 🌱 I am currently learning CTF Games and different useful tools for it here is my THM account: https://tryhackme.com/p/AlexPY.
 - 👯 I am looking to learn as much as possible, if you have tips for me or questions about my writeups, please contact me.
 - 📫 How to reach me: alex.spiesberger@gmail.com.
